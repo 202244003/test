@@ -1,0 +1,10 @@
+week02
+- linux command : ls, lsa- l, pwd, cd .git, cd ..
+- git command
+  git init : 저장소 지정? 생성?
+  git status : 상태 보기
+  git add week01.txt : 변경 내용 추가
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your name"
+  git commit -m "v0"
+  git log : 저장된 사진첩?
