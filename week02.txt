@@ -1,5 +1,5 @@
 week02
-- linux command : ls, lsa- l, pwd, cd .git, cd ..
+- linux command : ls, lsa- l, pwd, cd .git, cd, echo "~~" >> README.md .. ..
 - git command
   git init : 저장소 지정? 생성?
   git status : 상태 보기
@@ -8,3 +8,5 @@ week02
   git config --global user.name "Your name"
   git commit -m "v0"
   git log : 저장된 사진첩?
+  git checkout
+  git branch -M main
