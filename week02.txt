@@ -12,4 +12,5 @@ week02
   git branch -M main
   git remote add origin https://github.com/202244003/test.git
   git remote -v
-  git push -u origin main
+  git push -u origin main 
+  git clone https://github.com/202244003/test.git .
